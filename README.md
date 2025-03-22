@@ -1,8 +1,3 @@
-# Mi-ltima-lista-
-Canales 
-
-
-
 
 #EXTM3U
 
