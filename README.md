@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8uefGK_6b42GLvqp-t4P5y85ZBMg9VviYA&s" group-title="Emisoras"La Voz Del Norte 
